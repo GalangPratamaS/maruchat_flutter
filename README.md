@@ -1,6 +1,6 @@
 # maruchat
 
-A new Flutter project.
+A chat project based on firebase 
 
 ## Getting Started
 
