@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173779404902",
+    "project_id": "chatugo-b8352",
+    "storage_bucket": "chatugo-b8352.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173779404902:android:f6a9a38612a532712285a7",
+        "android_client_info": {
+          "package_name": "com.example.maruchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173779404902-9sboa882eepkjuouq17igv8r10s9vgud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb62SgRXvhv8Hte-y-AJiH2xeDC2tbTmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173779404902-9sboa882eepkjuouq17igv8r10s9vgud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
